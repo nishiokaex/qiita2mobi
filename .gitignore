@@ -1,0 +1,9 @@
+qiita
+send-kindle.csh
+*.mobi
+*.class
+*.txt
+GitBookConverter/test
+GitBookConverter/out
+GitBookConverter/nbproject
+GitBookConverter/build
